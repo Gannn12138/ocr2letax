@@ -1,0 +1,25 @@
+2025-11-13 18:14:14,317 - __main__ - INFO - 开始处理图像: demo.png
+2025-11-13 18:14:14,349 - src.image_processor - INFO - 成功加载图像: demo.png, 尺寸: (336, 1488, 3)
+2025-11-13 18:14:14,380 - src.image_processor - INFO - 图像增强处理完成
+2025-11-13 18:14:14,998 - src.image_processor - INFO - 图像去噪处理完成
+2025-11-13 18:14:15,000 - src.image_processor - INFO - 图像预处理完成
+2025-11-13 18:14:15,012 - src.mathpix_client - INFO - 开始OCR识别...
+2025-11-13 18:14:18,026 - src.mathpix_client - INFO - API请求成功，使用次数: 1
+2025-11-13 18:14:18,027 - src.mathpix_client - INFO - OCR识别完成，耗时: 3.01秒
+2025-11-13 18:14:18,028 - src.mathpix_client - WARNING - 识别置信度较低: 0.46
+2025-11-13 18:14:18,032 - src.result_processor - INFO - JSON结果已保存: /Users/apple/Desktop/AI-T/OCR2LATEX/results/demo_result.json
+2025-11-13 18:14:18,034 - src.result_processor - INFO - HTML模板已创建: /Users/apple/Desktop/AI-T/OCR2LATEX/templates/result_viewer.html
+2025-11-13 18:14:18,036 - src.result_processor - INFO - HTML结果已保存: /Users/apple/Desktop/AI-T/OCR2LATEX/results/demo_result.html
+2025-11-13 18:14:18,037 - __main__ - INFO - 图像处理成功完成，总耗时: 3.72秒
+2025-11-13 18:17:26,147 - __main__ - INFO - 开始处理图像: demo.png
+2025-11-13 18:17:26,184 - src.image_processor - INFO - 成功加载图像: demo.png, 尺寸: (336, 1488, 3)
+2025-11-13 18:17:26,218 - src.image_processor - INFO - 图像增强处理完成
+2025-11-13 18:17:26,954 - src.image_processor - INFO - 图像去噪处理完成
+2025-11-13 18:17:26,955 - src.image_processor - INFO - 图像预处理完成
+2025-11-13 18:17:26,966 - src.mathpix_client - INFO - 开始OCR识别...
+2025-11-13 18:17:29,397 - src.mathpix_client - INFO - API请求成功，使用次数: 1
+2025-11-13 18:17:29,397 - src.mathpix_client - INFO - OCR识别完成，耗时: 2.43秒
+2025-11-13 18:17:29,398 - src.mathpix_client - WARNING - 识别置信度较低: 0.45
+2025-11-13 18:17:29,402 - src.result_processor - INFO - JSON结果已保存: /Users/apple/Desktop/AI-T/OCR2LATEX/results/demo_result.json
+2025-11-13 18:17:29,403 - src.result_processor - INFO - HTML结果已保存: /Users/apple/Desktop/AI-T/OCR2LATEX/results/demo_result.html
+2025-11-13 18:17:29,404 - __main__ - INFO - 图像处理成功完成，总耗时: 3.26秒
