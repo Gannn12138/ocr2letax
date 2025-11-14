@@ -49,8 +49,8 @@ pip install -r requirements.txt
 在 `src/config.py` 中设置您的Mathpix API密钥：
 
 ```python
-MATHPIX_APP_ID = "ai_t_b2282a_f499d0"
-MATHPIX_APP_KEY = "55e4fb5039548002f5f1d8a5b81f7c3b86ad06b4c9e480f0e3d658adc52abc48"
+MATHPIX_APP_ID = "your_app_id"
+MATHPIX_APP_KEY = "your_app_key"
 ```
 
 ### 3. 运行识别
